@@ -1,6 +1,6 @@
 <?php
 // Define two numbers
-$num1 = 10;
+$num1 = 50;
 $num2 = 40;
 
 // Add the numbers
